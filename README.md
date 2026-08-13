@@ -2,23 +2,20 @@
 
 Que bom que você apareceu por aqui.
 
-Me chamo **João Pedro**, sou primeiramente cristão, desenvolvedor web  e designer gráfico, brasileiro, maranhese, porem, moro no Rio Grande do Sul.
+Me chamo **João Pedro**, sou primeiramente cristão, desenvolvedor web e designer gráfico, brasileiro, maranhese, porem, moro no Rio Grande do Sul.
 
 Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw, e agora Photoshop e Figma, mas acabei mergulhando no frontend e nunca mais saí, minha maior dor é backend.
 
-##
+---
 
 **Sobre mim**
 
 - **B.Sc. em Análise e Desenvolvimento de Sistemas** — UCS *(em andamento)*
-
 - **Graduação Tecnica em Gestão de Projetos** — IEMA
 - **Graduação Tecnica em Robótica e Informática** — IEMA
 - **Graduação Tecnica em Meio Ambiente, Saúde e Segurança do Trabalho** — IEMA
 
-##
-
-<div align="left">
+---
 
 **Stack**
 
@@ -37,11 +34,7 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-##
-
-<div align="center">
+---
 
 **Estatisticas**
 
@@ -49,11 +42,11 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
   <img src="https://streak-stats.demolab.com/?user=Bakurin0&theme=github-dark&hide_border=false&border_radius=8"/>
 </div>
 
-##
-
-<div align="center">
+---
 
 **Contatos & Redes**
+
+<div align="center">
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5598989104905?text=Ol%C3%A1%2C%20tudo%20bem%3F)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
