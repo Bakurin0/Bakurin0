@@ -18,9 +18,9 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 
 ##
 
-**Stack**
-
 <div align="left">
+
+**Stack**
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,9 +41,18 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 
 ##
 
-**🔗 Contato & Redes**
+<div align="center">
 
-<div align="left">
+**Estatisticas**
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=Bakurin0&theme=shadow-green&hide_border=true"/>
+<div>
+
+##
+
+<div align="center">
+
+**Contatos & Redes**
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5598989104905?text=Ol%C3%A1%2C%20tudo%20bem%3F)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
