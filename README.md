@@ -39,8 +39,7 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 **Estatisticas**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bakurin0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakurin0&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Bakurin0&theme=dark&hide_border=true&locale=pt_BR">
 </div>
 
 ##
