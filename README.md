@@ -39,7 +39,7 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 **Estatisticas**
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Bakurin0&theme=dark&hide_border=false&border_radius=8&card_width=850&v=1"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Bakurin0&theme=dark&hide_border=false&border_radius=8&card_width=850&locale=pt_BR&v=1"/>
 </div>
 
 ##
