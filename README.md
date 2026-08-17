@@ -50,6 +50,6 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=5598989104905&text=Ol%C3%A1%2C+tudo+bem%3F+Vim+do+seu++Perfil+do+Github&type=phone_number&app_absent=0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakurino-dev/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro@verdejo.dev.br)
 
 </div>
