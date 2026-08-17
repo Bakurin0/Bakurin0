@@ -48,7 +48,7 @@ Trabalho entre código e design, comecei pelo design no canva, depois CorelDraw,
 
 <div align="left">
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5598989104905?text=Ol%C3%A1%2C%20tudo%20bem%3F)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](`https://wa.me/5598989104905?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20Perfil%20do%20Github)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
